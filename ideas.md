@@ -4,13 +4,13 @@ Three Major Project Ideas
 Idea 1
 -----
 
-##Overview
+Overview
 
-#Pros
+Pros
 
-###Cons
+Cons
 
-###How might it be bulit
+How might it be bulit
 
 
-###Business model
+Business model
