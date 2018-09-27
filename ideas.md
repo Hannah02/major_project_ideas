@@ -13,3 +13,35 @@ Idea 1
 ### How might it be bulit
 
 ### Business model
+
+*** 
+
+Idea 2
+------
+
+### Overview
+
+### Pros
+
+### Cons
+
+### How might it be bulit
+
+### Business model
+
+***
+
+Idea 3
+------
+
+### Overview
+
+### Pros
+
+### Cons
+
+### How might it be bulit
+
+### Business model
+
+***
