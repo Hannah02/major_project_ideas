@@ -6,13 +6,13 @@ Idea 1
 
 ### Overview
 
-### Pros
+### Pros and Cons
 
-### Cons
+### How might it be built?
 
-### How might it be bulit
+### Who’s it for?
 
-### Business model
+### What’s the business model?
 
 *** 
 
@@ -21,13 +21,13 @@ Idea 2
 
 ### Overview
 
-### Pros
+### Pros and Cons
 
-### Cons
+### How might it be built?
 
-### How might it be bulit
+### Who’s it for?
 
-### Business model
+### What’s the business model?
 
 ***
 
@@ -36,12 +36,12 @@ Idea 3
 
 ### Overview
 
-### Pros
+### Pros and Cons
 
-### Cons
+### How might it be built?
 
-### How might it be bulit
+### Who’s it for?
 
-### Business model
+### What’s the business model?
 
 ***
