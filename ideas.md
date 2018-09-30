@@ -60,13 +60,13 @@ I think the narrative of the book could highlight beautiful, authentic interacti
 
 ### Pros and Cons
 
-## Pros
+#### Pros
 
 - Physical books! Yay! (and I could also make an ebook version for wider distribution).
 - Shows off illustration skills.
 - I would learn more about self publishing and marketing books.
 
-## Cons
+#### Cons
 
 - I’ve never written something that full length before but I am excited to learn (maybe I could collaborate with someone else if I am stuck).
 - People might not want to read it.
@@ -98,11 +98,11 @@ The idea behind this mobile game is not dissimilar to that of whack a mole, just
 
 ### Pros and Cons
 
-## Pros
+#### Pros
 - You could definitely have fun making a choice of different avatars to play the game with (like mii’s or the character selection in crossy road).
 - A fun project the has many visual aspects to it.
 
-## Cons
+#### Cons
 - Character customization screen sounds super difficult.
 - Lots to do and learn in a short space of time.
 - Never built a game before.
