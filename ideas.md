@@ -23,13 +23,13 @@ I think of this project as a sort-of digital fan-zine that serves as inspiration
 
 ### Pros and Cons
 
-## Pros
+#### Pros
 - A cause I feel strongly about 
 - Would be a helpful guide for women starting out in the design industry or study, especially if they find it difficult to find female designers to relate to in their social circle.
 - Get to show off my illustration skills in a way that I am excited about
 - I would learn more about self-publishing and designing for digital publications
 
-## Cons
+#### Cons
 - Wide range of people to feature so I need to be specific about who I am featuring and why.
 - Need to be clear that we need men to help in this fight- we are not manhating, we just want to promote women as they climb the career ladder in design.
 - Have to be careful not to look like a weird design fangirl.
