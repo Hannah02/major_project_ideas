@@ -56,7 +56,7 @@ Idea 2
 
 As adults, we still crave visual things, but we feel we have left the days of picture story-books behind. Pictures are for children who can’t read and when you’re an adult you read regular books. Comics can be heavy handed and childish in storytelling and often don’t bridge the gap between written content and visual work as well as some people would like. I would like to create a book that doesn’t compromise on mature content and storytelling but also brings in beautiful illustrations to fit that visual need.
 Think folio society, but not just limited to cover content. 
-I think the narrative of the book could highlight beautiful, authentic interactions that can still happen in an increasingly distant and polished world. 
+I think the narrative of the book could highlight beautiful, authentic interactions that can still happen in an increasingly distant and polished world. I would like to point out that technology can be our friend to make these connections happen and is not nessisarialy the enemy. For example, a room full of people on their phones isn't just nessisarialy a room full of antisocial people, they could be planning dates, talking to friends across the globe or just checking in on a friend who needs support. 
 
 ### Pros and Cons
 
